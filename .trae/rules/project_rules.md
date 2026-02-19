@@ -13,6 +13,15 @@
 - scripts/：数据分析与可视化脚本（Python）
 - output/：脚本生成的图表（仅在需要时更新）
 
+## 跨月文件规则（必须）
+
+- 当月份切换后，**训练计划、训练建议、训练记录必须按月份独立拆分**，新增内容只写入当月文件：
+  - 跑步记录 → `data/YYYY/MM-MonthName.md`
+  - 训练计划 → `training-plans/YYYY-MM-plan.md`
+  - 训练建议 → `docs/training-advice-YYYY-MM.md`
+- 不在上月文件中继续追加本月内容；上月文件保留为归档
+- 若周计划跨月：从新月份开始的日期起，写入新月份训练计划文件；上月训练计划在对应位置留一行“已迁移到新月份计划”的链接提示
+
 ## 数据记录规范（data/）
 
 - 月度文件命名：`data/YYYY/NN-MonthName.md`（例如 `data/2026/01-January.md`）

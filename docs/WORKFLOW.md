@@ -7,7 +7,7 @@
 ```
 月初
   ↓
-📋 查看训练计划 (training-plans/2026-01-plan.md)
+📋 查看训练计划 (training-plans/YYYY-MM-plan.md)
   ├─ 了解本月目标
   ├─ 查看每周安排
   └─ 明确心率/配速要求
@@ -35,8 +35,8 @@
   └─ 生成记录行
   ↓
 💾 更新文件
-  ├─ data/2026/01-January.md (月度记录)
-  └─ training-plans/2026-01-plan.md (更新完成状态)
+  ├─ data/YYYY/MM-MonthName.md (月度记录)
+  └─ training-plans/YYYY-MM-plan.md (更新完成状态)
   ↓
 📊 查看进度 (README.md)
   ├─ 本月完成进度
@@ -62,7 +62,7 @@
 1. **训练前**（1分钟）
    ```bash
    # 打开训练计划，查看今日安排
-   open training-plans/2026-01-plan.md
+   open training-plans/YYYY-MM-plan.md
    ```
 
 2. **训练中**（30-60分钟）
@@ -76,7 +76,7 @@
    python scripts/quick_log.py
 
    # 输入数据后，复制生成的记录行
-   # 粘贴到 data/2026/01-January.md
+   # 粘贴到 data/YYYY/MM-MonthName.md
    ```
 
 4. **更新计划**（1分钟）
@@ -111,11 +111,11 @@
 
 ### 训练后立即更新
 
-1. **月度记录** `data/2026/01-January.md`
+1. **月度记录** `data/YYYY/MM-MonthName.md`
    - 添加跑步记录行
    - 更新本月统计
 
-2. **训练计划** `training-plans/2026-01-plan.md`
+2. **训练计划** `training-plans/YYYY-MM-plan.md`
    - 标记完成状态 ✅
    - 填写实际完成数据
    - 添加对比分析
@@ -128,7 +128,7 @@
    - 更新最新动态
 
 4. **月度总结**（月末更新）
-   - 填写 `data/2026/01-January.md` 的月度总结
+   - 填写 `data/YYYY/MM-MonthName.md` 的月度总结
    - 生成下月训练计划
 
 ---
