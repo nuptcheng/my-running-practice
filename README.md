@@ -33,7 +33,7 @@
 ### 📈 训练建议
 - [训练建议归档](docs/training-advice-index.md) - 所有训练建议索引
 - [2026-02 训练建议（按月归档）](docs/training-advice-2026-02.md) - 最新建议（2月）
-  - 快速跳转：[2/9](docs/training-advice-2026-02.md#2026-02-09)｜[2/18](docs/training-advice-2026-02.md#2026-02-18)
+  - 快速跳转：[2/9](docs/training-advice-2026-02.md#2026-02-09)｜[2/18](docs/training-advice-2026-02.md#2026-02-18)｜[2/23](docs/training-advice-2026-02.md#2026-02-23)
 - [2026-01 训练建议（按月归档）](docs/training-advice-2026-01.md) - 最新建议（1月）
   - 快速跳转：[1/13](docs/training-advice-2026-01.md#2026-01-13)｜[1/16](docs/training-advice-2026-01.md#2026-01-16)｜[1/19](docs/training-advice-2026-01.md#2026-01-19)｜[1/22](docs/training-advice-2026-01.md#2026-01-22)
 
