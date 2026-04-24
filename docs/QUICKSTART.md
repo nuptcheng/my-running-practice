@@ -6,7 +6,7 @@
 
 ### 步骤1：查看今日计划
 
-打开 `README.md` 或 `training-plans/YYYY-MM-plan.md`，查看今天的训练计划。
+打开 `README.md` 或 `training-plans/2026-01-plan.md`，查看今天的训练计划。
 
 例如：
 ```
@@ -89,11 +89,11 @@ python3 scripts/quick_log.py
 | 2026-01-15 | 5.2 | 42.00 | 8:04 | 135 | 148 | 80.5 | 户外 | 8 | 状态不错，心率控制得很好 |
 ```
 
-粘贴到 `data/YYYY/MM-MonthName.md` 的表格中。
+粘贴到 `data/2026/01-January.md` 的表格中。
 
 ### 步骤6：更新训练计划
 
-在 `training-plans/YYYY-MM-plan.md` 中更新：
+在 `training-plans/2026-01-plan.md` 中更新：
 
 ```markdown
 ### 周三 1/15 ✅ 已完成
@@ -142,7 +142,7 @@ python3 scripts/visualize.py
 - `monthly_summary.png` - 月度统计
 
 填写月度总结：
-- 在 `data/YYYY/MM-MonthName.md` 的"本月总结"部分
+- 在 `data/2026/01-January.md` 的"本月总结"部分
 - 记录完成情况、收获、需要改进的地方
 
 ---

@@ -25,11 +25,11 @@ pip install pandas matplotlib seaborn
 
 ### 推荐工作流程
 
-1. **查看本月训练计划** → `training-plans/YYYY-MM-plan.md`
+1. **查看本月训练计划** → `training-plans/2026-01-plan.md`
 2. **按计划进行训练**
 3. **跑步后快速记录** → 使用 `python scripts/quick_log.py`
 4. **对比计划完成情况** → 自动显示对比结果
-5. **更新月度记录文件** → 将记录添加到 `data/YYYY/MM-MonthName.md`
+5. **更新月度记录文件** → 将记录添加到 `data/2026/01-January.md`
 6. **定期查看进度** → README 中的训练计划概览
 
 ---
@@ -77,8 +77,8 @@ python scripts/quick_log.py
 ### 5. 更新文件
 
 将生成的记录添加到：
-- `data/YYYY/MM-MonthName.md` - 月度记录
-- `training-plans/YYYY-MM-plan.md` - 更新计划完成状态
+- `data/2026/01-January.md` - 月度记录
+- `training-plans/2026-01-plan.md` - 更新计划完成状态
 
 ### 6. 查看进度
 
